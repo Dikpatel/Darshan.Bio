@@ -426,6 +426,7 @@ img {
   max-width: 600px;
   position: relative;
   padding-top: 66.6666666667%;
+  justify-content: center;
 }
 @media screen and (min-width: 600px) {
   .gallery {
